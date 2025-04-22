@@ -1,0 +1,3 @@
+
+0 6 * * * DISPLAY=:0 /home/barisbrew/light_up.sh >> /home/bright_control/bright_log.txt 2>&1
+0 22 * * * DISPLAY=:0 /home/barisbrew/light_down.sh >> /home/bright_control/bright_log.txt 2>&1

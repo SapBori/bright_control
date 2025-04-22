@@ -1,0 +1,39 @@
+2025-04-22 10:24:01 - Brightness set to: 
+2025-04-22 10:24:01 - Brightness set to: 
+Can't open display :0
+Can't open display 
+2025-04-22 10:26:01 - Brightness set to: 
+Can't open display :0
+Can't open display 
+2025-04-22 10:27:01 - Brightness set to: 
+2025-04-22 10:27:04 - Brightness set to: 1.0
+2025-04-22 10:27:07 - Brightness set to: 1.0
+2025-04-22 10:27:49 - Brightness set to: 0.90
+2025-04-22 10:27:57 - Brightness set to: 0.20
+Can't open display 
+2025-04-22 10:28:01 - Brightness set to: 
+2025-04-22 10:28:01 - Brightness set to: 0.90
+Can't open display 
+Can't open display 
+2025-04-22 10:30:01 - Brightness set to: 
+2025-04-22 10:30:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:32:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:33:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:34:01 - Brightness set to: 
+Can't open display 
+Can't open display 
+2025-04-22 10:36:01 - Brightness set to: 
+2025-04-22 10:36:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:38:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:39:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:40:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:42:01 - Brightness set to: 
+Can't open display 
+2025-04-22 10:42:01 - Brightness set to: 
